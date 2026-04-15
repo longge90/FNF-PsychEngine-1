@@ -61,7 +61,7 @@ jobs:
           haxelib install tjson
           haxelib install hxjsonast
           haxelib install hscript 2.5.0
-          haxelib git hxCodec 2.5.1
+          haxelib install hxCodec 2.5.1
           haxelib git linc_luajit https://github.com/PsychExtendedThings/linc_luajit.git
           haxelib git extension-androidtools https://github.com/MaysLastPlay77/extension-androidtools.git
           //haxelib git hxShaders https://github.com/JonnycatMeow/hxShaders.git
